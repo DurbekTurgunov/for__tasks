@@ -1,6 +1,5 @@
-let a = 1;
-let b = 10;
+let a = 55000;
 
-for (let i = 1; i <= b; i++) {
-    console.log(i);
+for (let i = 1; i <= 10; i++) {
+    console.log(i * a);
 }
